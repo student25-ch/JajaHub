@@ -1,0 +1,4 @@
+flask
+PyJWT
+alibabacloud_dysmsapi20170525
+alibabacloud_tea_openapi
